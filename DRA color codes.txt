@@ -1,0 +1,5 @@
+Black - #221f1f
+Blue - #1eb1e7
+Drakish Blue - #0d78b1
+White - #ffffff
+Red - #f40636

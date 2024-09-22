@@ -1,0 +1,10 @@
+Mikado yellow - #FFC20F
+White - #FAFCFB
+Night - #09120F
+Olive - 6F732F
+Murray - #82204A
+Raspberry rose - #AA4465
+
+Black - #040706
+Yellow - #e0aa0d
+White - #e0e0e0
